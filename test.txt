@@ -1,0 +1,6 @@
+this is a test file
+this should be checked for type
+and if object is instance of file
+then check for hidden passwords
+whatever this maybe
+and output into the terminal
